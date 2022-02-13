@@ -14,6 +14,7 @@ Resources Used to Create MVP:
 - React.js
 - Node.js
 - Redux
+- Contextapi
 
 Stretch Goals:
 - Tournament Style Battle
