@@ -9,3 +9,4 @@
 #### Saturday, 2/12
 * 4:30: additional research on API with react
 * 11:00: created diagram outline for project
+* 12:09: Watched videos on tournament with React
