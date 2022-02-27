@@ -10,3 +10,8 @@
 * 4:30: additional research on API with react
 * 11:00: created diagram outline for project
 * 12:09: Watched videos on tournament with React
+
+
+#### Sunday, 2/27
+* 9:30- 11:20 struggled to get api key for api wanted
+* 
