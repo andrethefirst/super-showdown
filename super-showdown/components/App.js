@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Headlines from './Headlines';
+import Headlines from './Characters';
 
 function App() {
   return (
