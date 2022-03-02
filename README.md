@@ -16,3 +16,6 @@
 * 9:30- 11:20 struggled to get api key for api wanted
 * 11:30 building own api for project refer to https://github.com/andrethefirst/api-for-capstone 
 * 4:09 finished building api
+
+#### Tuesday, 3/1
+* 6:15 reviewed react with api lessons
